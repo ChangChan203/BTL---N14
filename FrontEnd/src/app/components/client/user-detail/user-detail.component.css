@@ -1,0 +1,7 @@
+.Home {
+  text-decoration: none; /* Loại bỏ gạch chân */
+  color: black; /* Đổi màu chữ thành đen */
+}
+.Home :hover {
+  color: brown; /* Màu chữ khi hover */
+}
